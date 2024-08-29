@@ -1,0 +1,1 @@
+&nbsp;<a href="mailto:<?=$admin_email?>?subject=qs ban <?=$quote_link?>">Бан</a>

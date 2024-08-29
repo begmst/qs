@@ -1,0 +1,21 @@
+.page {
+  font-family: monospace;
+  width: 100%;
+}
+
+.wholequote {
+  border: 1px dashed;
+}
+
+abbr {
+  border: none;
+}
+
+.warning {
+ font-weight: bold;
+ color: red;
+}
+
+strong {
+ font-style: italic;
+}
